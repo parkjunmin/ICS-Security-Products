@@ -1,5 +1,6 @@
 # ICS Search Engines
 
+* [Criminalip](https://www.criminalip.io)
 * [Censys](https://censys.io)
 * [Fofa](https://fofa.so)
 * [Onyphe](https://www.onyphe.io/)
